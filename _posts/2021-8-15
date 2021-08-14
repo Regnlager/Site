@@ -1,0 +1,19 @@
+---
+layout: post
+title: Maxim Integrated ADAS & Safety
+---
+
+Advanced driver assistance systems augment sensory awareness and enhance safety of the driving experience, with functions such as parking assistance, lane positioning, and collision avoidance. Sensor fusion and advanced processing of camera, radar, and LiDAR systems provide accurate event detection, driver alerts, and semi-autonomous intervention.
+
+Key applications include:
+
+Sensor Fusion ECU
+Camera
+Collision Avoidance Radar System
+LiDAR System
+Parking Assist/Blind Spot ECU
+Driver Monitoring System (DMS)
+Surround View ECU
+V2X Communications
+
+For more instructions head over to the [ADAS & Safety](https://www.maximintegrated.com/en/applications/automotive/adas-and-safety.html).
