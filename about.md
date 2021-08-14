@@ -13,4 +13,4 @@ Some information about you!
 
 ### Contact me
 
-[email@domain.com](mailto:regnlager@gmail.com)
+[regnlager@gmail.com](mailto:regnlager@gmail.com)
