@@ -8,7 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Буду писать тут про разные проекты, показавшиеся мне интересными: беспилотные автомобили, BCI интерфейсы, различные проекты на микроконтроллерах и т.д. 
+Также, некоторые очерки по моей диссертации.
 
 ### Contact me
 
